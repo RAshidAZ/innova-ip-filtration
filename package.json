@@ -1,0 +1,24 @@
+{
+  "name": "innova-ip-filtration",
+  "version": "1.0.0",
+  "description": "Project to filter ip address/domain for transaction verification.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAshidAZ/innova-ip-filtration.git"
+  },
+  "keywords": [
+    "innova-tech",
+    "ip-filtration",
+    "transaction-verifications"
+  ],
+  "author": "Innova Tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RAshidAZ/innova-ip-filtration/issues"
+  },
+  "homepage": "https://github.com/RAshidAZ/innova-ip-filtration#readme"
+}
